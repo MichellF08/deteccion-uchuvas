@@ -1,0 +1,126 @@
+split,image,error_type,gt_class,pred_class,conf,detail
+val,354f5b08e9f99dbd_photo.jpg,Falsa_Alarma_Frame_Vacio,background,pintona,0.645,Falsa alarma en frame de control sin frutos
+val,354f5b08e9f99dbd_photo.jpg,Falsa_Alarma_Frame_Vacio,background,madura,0.476,Falsa alarma en frame de control sin frutos
+val,354f5b08e9f99dbd_photo.jpg,Falsa_Alarma_Frame_Vacio,background,pintona,0.422,Falsa alarma en frame de control sin frutos
+val,354f5b08e9f99dbd_photo.jpg,Falsa_Alarma_Frame_Vacio,background,pintona,0.414,Falsa alarma en frame de control sin frutos
+val,53c7601d18dd115d_photo.jpg,Falsa_Alarma_Frame_Vacio,background,pintona,0.446,Falsa alarma en frame de control sin frutos
+val,53c7601d18dd115d_photo.jpg,Falsa_Alarma_Frame_Vacio,background,pintona,0.352,Falsa alarma en frame de control sin frutos
+val,53c7601d18dd115d_photo.jpg,Falsa_Alarma_Frame_Vacio,background,madura,0.257,Falsa alarma en frame de control sin frutos
+val,6a3866a8c71f4e78_photo.jpg,Falso_Positivo_Follaje,background,pintona,0.792,Falso positivo sobre follaje
+val,6a3866a8c71f4e78_photo.jpg,Clase_Confundida,madura,pintona,0.681,GT madura clasificado como pintona
+val,6a3866a8c71f4e78_photo.jpg,Falso_Positivo_Follaje,background,madura,0.461,Falso positivo sobre follaje
+val,6a3866a8c71f4e78_photo.jpg,Falso_Positivo_Follaje,background,madura,0.286,Falso positivo sobre follaje
+val,6a3866a8c71f4e78_photo.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+val,6a3866a8c71f4e78_photo.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+val,6a3866a8c71f4e78_photo.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+val,6a3866a8c71f4e78_photo.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+val,6a3866a8c71f4e78_photo.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+val,7299c4a0fc74ad1b_photo.jpg,Falso_Positivo_Follaje,background,madura,0.736,Falso positivo sobre follaje
+val,7299c4a0fc74ad1b_photo.jpg,Falso_Positivo_Follaje,background,pintona,0.529,Falso positivo sobre follaje
+val,7299c4a0fc74ad1b_photo.jpg,Falso_Positivo_Follaje,background,pintona,0.521,Falso positivo sobre follaje
+val,7299c4a0fc74ad1b_photo.jpg,Falso_Positivo_Follaje,background,pintona,0.253,Falso positivo sobre follaje
+val,7877a47e73925d5a_photo.jpg,Clase_Confundida,sobremadura,madura,0.573,GT sobremadura clasificado como madura
+val,7877a47e73925d5a_photo.jpg,Falso_Positivo_Follaje,background,pintona,0.552,Falso positivo sobre follaje
+val,7877a47e73925d5a_photo.jpg,Clase_Confundida,sobremadura,madura,0.387,GT sobremadura clasificado como madura
+val,7877a47e73925d5a_photo.jpg,Falso_Negativo_Omision,sobremadura,none,0.0,Escala pequeña (<1% área)
+val,7877a47e73925d5a_photo.jpg,Falso_Negativo_Omision,sobremadura,none,0.0,Escala pequeña (<1% área)
+val,7877a47e73925d5a_photo.jpg,Falso_Negativo_Omision,sobremadura,none,0.0,Escala pequeña (<1% área)
+val,7877a47e73925d5a_photo.jpg,Falso_Negativo_Omision,sobremadura,none,0.0,Escala pequeña (<1% área)
+val,7877a47e73925d5a_photo.jpg,Falso_Negativo_Omision,sobremadura,none,0.0,Escala pequeña (<1% área)
+val,7877a47e73925d5a_photo.jpg,Falso_Negativo_Omision,sobremadura,none,0.0,Escala pequeña (<1% área)
+val,7877a47e73925d5a_photo.jpg,Falso_Negativo_Omision,sobremadura,none,0.0,Escala pequeña (<1% área)
+val,7877a47e73925d5a_photo.jpg,Falso_Negativo_Omision,sobremadura,none,0.0,Escala pequeña (<1% área)
+val,7877a47e73925d5a_photo.jpg,Falso_Negativo_Omision,sobremadura,none,0.0,Escala pequeña (<1% área)
+val,7877a47e73925d5a_photo.jpg,Falso_Negativo_Omision,sobremadura,none,0.0,Escala pequeña (<1% área)
+val,7877a47e73925d5a_photo.jpg,Falso_Negativo_Omision,sobremadura,none,0.0,Escala pequeña (<1% área)
+val,7877a47e73925d5a_photo.jpg,Falso_Negativo_Omision,sobremadura,none,0.0,Escala pequeña (<1% área)
+val,7877a47e73925d5a_photo.jpg,Falso_Negativo_Omision,sobremadura,none,0.0,Escala pequeña (<1% área)
+val,7877a47e73925d5a_photo.jpg,Falso_Negativo_Omision,sobremadura,none,0.0,Escala pequeña (<1% área)
+val,7877a47e73925d5a_photo.jpg,Falso_Negativo_Omision,sobremadura,none,0.0,Escala pequeña (<1% área)
+val,7877a47e73925d5a_photo.jpg,Falso_Negativo_Omision,sobremadura,none,0.0,Escala pequeña (<1% área)
+val,7877a47e73925d5a_photo.jpg,Falso_Negativo_Omision,sobremadura,none,0.0,Escala pequeña (<1% área)
+val,7877a47e73925d5a_photo.jpg,Falso_Negativo_Omision,sobremadura,none,0.0,Escala pequeña (<1% área)
+val,7877a47e73925d5a_photo.jpg,Falso_Negativo_Omision,sobremadura,none,0.0,Escala pequeña (<1% área)
+val,7877a47e73925d5a_photo.jpg,Falso_Negativo_Omision,sobremadura,none,0.0,Escala pequeña (<1% área)
+val,b4bc52bc3b4b2469_f000000254.jpg,Falso_Positivo_Follaje,background,pintona,0.257,Falso positivo sobre follaje
+val,b4bc52bc3b4b2469_f000000254.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+val,b4bc52bc3b4b2469_f000000254.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+val,b4bc52bc3b4b2469_f000000254.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+val,b4bc52bc3b4b2469_f000000254.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+val,b4bc52bc3b4b2469_f000000254.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+val,b4bc52bc3b4b2469_f000000254.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+val,b4bc52bc3b4b2469_f000000254.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+val,b4bc52bc3b4b2469_f000000254.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+val,b4bc52bc3b4b2469_f000000358.jpg,Falso_Positivo_Follaje,background,pintona,0.284,Falso positivo sobre follaje
+val,b4bc52bc3b4b2469_f000000358.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+val,b4bc52bc3b4b2469_f000000358.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+val,b4bc52bc3b4b2469_f000000358.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+val,b4bc52bc3b4b2469_f000000358.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+val,b4bc52bc3b4b2469_f000000358.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+val,b4bc52bc3b4b2469_f000000358.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+val,b4bc52bc3b4b2469_f000000358.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+val,b4bc52bc3b4b2469_f000000358.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+val,b4bc52bc3b4b2469_f000000358.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+val,b4bc52bc3b4b2469_f000000358.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+val,b4bc52bc3b4b2469_f000000358.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+val,b4bc52bc3b4b2469_f000000358.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+val,c0f5aa5944147875_photo.jpg,Falso_Positivo_Follaje,background,madura,0.567,Falso positivo sobre follaje
+val,c0f5aa5944147875_photo.jpg,Clase_Confundida,pintona,madura,0.556,GT pintona clasificado como madura
+val,c0f5aa5944147875_photo.jpg,Falso_Positivo_Follaje,background,pintona,0.454,Falso positivo sobre follaje
+val,c0f5aa5944147875_photo.jpg,Falso_Positivo_Follaje,background,madura,0.35,Falso positivo sobre follaje
+val,c0f5aa5944147875_photo.jpg,Falso_Positivo_Follaje,background,pintona,0.319,Falso positivo sobre follaje
+val,c0f5aa5944147875_photo.jpg,Falso_Positivo_Follaje,background,pintona,0.272,Falso positivo sobre follaje
+val,f142c765fa34a2d7_photo.jpg,Clase_Confundida,madura,pintona,0.764,GT madura clasificado como pintona
+val,f142c765fa34a2d7_photo.jpg,Clase_Confundida,madura,pintona,0.75,GT madura clasificado como pintona
+val,f142c765fa34a2d7_photo.jpg,Clase_Confundida,madura,pintona,0.666,GT madura clasificado como pintona
+val,f142c765fa34a2d7_photo.jpg,Falso_Positivo_Follaje,background,madura,0.381,Falso positivo sobre follaje
+val,f142c765fa34a2d7_photo.jpg,Falso_Positivo_Follaje,background,pintona,0.334,Falso positivo sobre follaje
+val,f142c765fa34a2d7_photo.jpg,Clase_Confundida,madura,pintona,0.328,GT madura clasificado como pintona
+val,f142c765fa34a2d7_photo.jpg,Falso_Positivo_Follaje,background,madura,0.325,Falso positivo sobre follaje
+val,f142c765fa34a2d7_photo.jpg,Falso_Positivo_Follaje,background,pintona,0.288,Falso positivo sobre follaje
+val,f142c765fa34a2d7_photo.jpg,Falso_Positivo_Follaje,background,pintona,0.262,Falso positivo sobre follaje
+val,f142c765fa34a2d7_photo.jpg,Falso_Positivo_Follaje,background,madura,0.262,Falso positivo sobre follaje
+val,f142c765fa34a2d7_photo.jpg,Falso_Positivo_Follaje,background,pintona,0.261,Falso positivo sobre follaje
+val,f142c765fa34a2d7_photo.jpg,Falso_Negativo_Omision,madura,none,0.0,Escala pequeña (<1% área)
+val,f142c765fa34a2d7_photo.jpg,Falso_Negativo_Omision,madura,none,0.0,Escala pequeña (<1% área)
+test,70912a1265fff6b0_photo.jpg,Falso_Positivo_Follaje,background,pintona,0.51,Falso positivo sobre follaje
+test,70912a1265fff6b0_photo.jpg,Falso_Positivo_Follaje,background,pintona,0.436,Falso positivo sobre follaje
+test,70912a1265fff6b0_photo.jpg,Falso_Positivo_Follaje,background,pintona,0.435,Falso positivo sobre follaje
+test,70912a1265fff6b0_photo.jpg,Falso_Positivo_Follaje,background,pintona,0.327,Falso positivo sobre follaje
+test,70912a1265fff6b0_photo.jpg,Falso_Negativo_Omision,pintona,none,0.0,Oclusión parcial
+test,fde46a8fe0011581_f000000060.jpg,Falso_Positivo_Follaje,background,pintona,0.752,Falso positivo sobre follaje
+test,fde46a8fe0011581_f000000060.jpg,Clase_Confundida,madura,pintona,0.649,GT madura clasificado como pintona
+test,fde46a8fe0011581_f000000060.jpg,Falso_Positivo_Follaje,background,pintona,0.626,Falso positivo sobre follaje
+test,fde46a8fe0011581_f000000060.jpg,Falso_Positivo_Follaje,background,madura,0.586,Falso positivo sobre follaje
+test,fde46a8fe0011581_f000000060.jpg,Falso_Negativo_Omision,pintona,none,0.0,Oclusión parcial
+test,fde46a8fe0011581_f000000060.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+test,fde46a8fe0011581_f000000060.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+test,fde46a8fe0011581_f000000060.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+test,fde46a8fe0011581_f000000060.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+test,fde46a8fe0011581_f000000060.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+test,fde46a8fe0011581_f000000060.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+test,fde46a8fe0011581_f000000060.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+test,fde46a8fe0011581_f000000060.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+test,fde46a8fe0011581_f000000060.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+test,fde46a8fe0011581_f000000090.jpg,Falso_Positivo_Follaje,background,madura,0.317,Falso positivo sobre follaje
+test,fde46a8fe0011581_f000000090.jpg,Clase_Confundida,madura,pintona,0.288,GT madura clasificado como pintona
+test,fde46a8fe0011581_f000000090.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+test,fde46a8fe0011581_f000000090.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+test,fde46a8fe0011581_f000000090.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+test,fde46a8fe0011581_f000000090.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+test,fde46a8fe0011581_f000000090.jpg,Falso_Negativo_Omision,madura,none,0.0,Escala pequeña (<1% área)
+test,fde46a8fe0011581_f000000120.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+test,fde46a8fe0011581_f000000120.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+test,fde46a8fe0011581_f000000120.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+test,fde46a8fe0011581_f000000120.jpg,Falso_Negativo_Omision,pintona,none,0.0,Oclusión parcial
+test,fde46a8fe0011581_f000000150.jpg,Clase_Confundida,madura,pintona,0.694,GT madura clasificado como pintona
+test,fde46a8fe0011581_f000000150.jpg,Falso_Negativo_Omision,pintona,none,0.0,Oclusión parcial
+test,fde46a8fe0011581_f000000150.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+test,fde46a8fe0011581_f000000150.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+test,fde46a8fe0011581_f000000150.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+test,fde46a8fe0011581_f000000180.jpg,Falso_Positivo_Follaje,background,madura,0.406,Falso positivo sobre follaje
+test,fde46a8fe0011581_f000000180.jpg,Falso_Positivo_Follaje,background,madura,0.363,Falso positivo sobre follaje
+test,fde46a8fe0011581_f000000180.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+test,fde46a8fe0011581_f000000180.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
+test,fde46a8fe0011581_f000000180.jpg,Falso_Negativo_Omision,pintona,none,0.0,Oclusión parcial
+test,fde46a8fe0011581_f000000180.jpg,Falso_Negativo_Omision,pintona,none,0.0,Escala pequeña (<1% área)
